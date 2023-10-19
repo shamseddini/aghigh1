@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="left">I'm from Iran<br>my name is aghigh shams<br>22 years old<br>computer software undergraduate student 🌻</h4>
+<h4 align="left">I'm from Iran<br>my name is aghigh shams<br>22 years old<br>computer software undergraduate student 🌻<br> Has a software engineering degree from Azad University</h4>
 
 ###
 
