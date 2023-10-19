@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">hey toseie 👋</h2>
+<h2 align="center">hi toseie 👋</h2>
 
 ###
 
